@@ -14,7 +14,7 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 
 Você deverá criar 1 aplicação conforme apresentada no gif abaixo, seguindo um modelo de workflow que será explicado mais abaixo:
 
-[Demonstração](https://github.com/remcoplasmeyer/flowy-vue/blob/master/public/demo.gif)
+![](/demo.gif)
 
 **Requisitos:**
 
