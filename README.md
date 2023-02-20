@@ -100,11 +100,7 @@ Entre os critérios de avaliação estão:
 
 ### JSON dados de um Bloco
 
-#### Response BlockID = 1
-
-##### Metadate
-
-###### WorflowInfo
+##### Metadata
 
 | Nome da Coluna | Observacao             |
 |----------------|------------------------|
@@ -207,6 +203,7 @@ Se o cliente não tiver sido atendido, uma ação de espera de 3 minutos será r
 ````json
 {
   "workflow": {
+    "id": 2,
     "name": "ConvertZ",
     "blocks": [
       {
