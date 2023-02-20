@@ -9,6 +9,7 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 * Faça um push para seu repositório com o desafio implementado.
 * Envie um email para (juniorabranches@compayz.com) com cópia para (marcosvinicius@compayz.com)
   avisando que finalizou o desafio com a url do seu fork.
+* Caso houver qualquer dúvida, entre em contato também por email para sanar e você poder conseguir desenvolver sem empecilho ou falta de entendimento.
 
 # Desafio
 
