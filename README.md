@@ -40,7 +40,7 @@ Segundo Workflow (Abaixo informaremos uma explicação mais detalhada dos Blocos
 
 #### FRONT-END
 
-* Vue.js 2 ou 3 com Nuxt (versão 2 preferencialmente)
+* Vue.js (2 ou 3) com Nuxt (versão 2 preferencialmente)
 * Typescript
 
 - [Utilizar BootstrapVue](https://bootstrap-vue.org/)
