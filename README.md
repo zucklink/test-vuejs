@@ -10,6 +10,7 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 * Envie um email para (juniorabranches@compayz.com) com cópia para (marcosvinicius@compayz.com)
   avisando que finalizou o desafio com a url do seu fork.
 * Caso houver qualquer dúvida, entre em contato também por email para sanar e você poder conseguir desenvolver sem empecilho ou falta de entendimento.
+* Será um PLUS caso optarem por utilizar serviço (de terceiros ou backedn) para o envio de email/sms. Porém, não é necessário. Seria apenas para "simular" o envio.
 
 # Desafio
 
